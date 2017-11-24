@@ -42,7 +42,7 @@ using Contract = MiningCore.Contracts.Contract;
 namespace MiningCore.Blockchain.Bitcoin
 {
     [CoinMetadata(
-        CoinType.BTC, CoinType.BCC, CoinType.NMC, CoinType.PPC,
+        CoinType.BTC, CoinType.BCL, CoinType.BCC, CoinType.NMC, CoinType.PPC,
         CoinType.LTC, CoinType.DOGE, CoinType.DGB, CoinType.VIA,
         CoinType.GRS, CoinType.DASH, CoinType.MONA, CoinType.VTC,
         CoinType.BTG, CoinType.GLT)]
